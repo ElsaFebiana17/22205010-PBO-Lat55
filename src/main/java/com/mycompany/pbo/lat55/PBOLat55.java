@@ -7,6 +7,10 @@ package com.mycompany.pbo.lat55;
 /**
  *
  * @author lenovo
+ *Nama : Elsa Febiana
+ *NIM : 22205010
+ *Prodi : Teknik Informatika
+ *Semester : 3
  */
 public class PBOLat55 {
 
